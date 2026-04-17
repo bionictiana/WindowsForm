@@ -1,4 +1,4 @@
-[# 🚀 C# - Windows Forms
+ C# - Windows Forms
 
 ![C#](https://img.shields.io/badge/C%23-Programming-blue?style=for-the-badge\&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge\&logo=dotnet)
@@ -120,9 +120,9 @@ Sinta-se livre para abrir issues ou pull requests.
 
 ## 👩🏽‍💻 Autora
 
-**Erica Tatiana **
-💼 Desenvolvedora de Software
-🚀 Em evolução constante
+**Erica Tatiana**
+Desenvolvedora de Software
+Em evolução constante
 
 ---
 
