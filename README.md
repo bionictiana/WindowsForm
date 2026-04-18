@@ -33,7 +33,7 @@ Este pequenino projeto basico foi desenvolvido utilizando **C# com Windows Forms
 1. Clona o repositório:
 
 ```bash
-git clone https://github.com/bionictiana/WindowsForm
+git clone https://github.com/ericatatiana/WindowsForm
 ```
 
 2. Abre o projeto no Visual Studio
@@ -129,4 +129,4 @@ Em evolução constante
 ## ⭐ Apoio
 
 Se este projeto te ajudou, deixa uma ⭐ no repositório!
-(https://github.com/bionictiana/WindowsForm)
+(https://github.com/ericatatiana/WindowsForm)
