@@ -91,7 +91,7 @@ private void button1_Click(object sender, EventArgs e)
 
 ---
 
-## 🎯 Funcionalidades
+##  Funcionalidades
 
 * Interface gráfica amigável
 * Interação com botões
@@ -101,7 +101,7 @@ private void button1_Click(object sender, EventArgs e)
 
 ---
 
-## 📚 Aprendizados
+##  Aprendizados
 
 Durante o desenvolvimento deste pequenino projeto, foram aplicados conceitos como:
 
@@ -111,14 +111,14 @@ Durante o desenvolvimento deste pequenino projeto, foram aplicados conceitos com
 
 ---
 
-## 🤝 Contribuição
+##  Contribuição
 
 Contribuições são bem-vindas!
 Sinta-se livre para abrir issues ou pull requests.
 
 ---
 
-## 👩🏽‍💻 Autora
+##  Autora
 
 **Erica Tatiana**
 Desenvolvedora de Software
@@ -126,7 +126,7 @@ Em evolução constante
 
 ---
 
-## ⭐ Apoio
+##  Apoio
 
 Se este projeto te ajudou, deixa uma ⭐ no repositório!
 (https://github.com/ericatatiana/WindowsForm)
